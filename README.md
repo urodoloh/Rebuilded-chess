@@ -4,6 +4,7 @@ I redid the structure, moved the logic from components to hooks, added
 styled components.
 
 We have five components:
+
 1.Game - where the main game events take place, such as restarting the
 timer, and which contains all other components.
 
