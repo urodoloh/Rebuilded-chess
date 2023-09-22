@@ -10,11 +10,11 @@ timer, and which contains all other components.
 
 2. Timer - the timer itself.
 
-3.Board - Where we render the cell components
+3.Board - where we render the cell components
 
 4.Cell - which takes the states of a cell and draws shapes and displays
 whether the cell is selected
 
-5.LostFigures Where we draw the figures that have left the gamectory, you can run:
+5.LostFigures - where we draw the figures that have left the gamectory.
 
 'npm start' to run.
